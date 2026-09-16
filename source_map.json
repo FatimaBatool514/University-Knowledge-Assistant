@@ -1,0 +1,464 @@
+{
+  "0": {
+    "chunk_id": "c82c712d0d8a819d6e756de0",
+    "source": "01_student_handbook.pdf",
+    "page": 1,
+    "chunk": 1,
+    "source_label": "01_student_handbook.pdf (Page 1)"
+  },
+  "1": {
+    "chunk_id": "b42f490107bfc786fa191ff5",
+    "source": "01_student_handbook.pdf",
+    "page": 2,
+    "chunk": 1,
+    "source_label": "01_student_handbook.pdf (Page 2)"
+  },
+  "2": {
+    "chunk_id": "c9c957428d287822ec045fec",
+    "source": "01_student_handbook.pdf",
+    "page": 3,
+    "chunk": 1,
+    "source_label": "01_student_handbook.pdf (Page 3)"
+  },
+  "3": {
+    "chunk_id": "7a848037d67caa3f2759ea56",
+    "source": "01_student_handbook.pdf",
+    "page": 3,
+    "chunk": 2,
+    "source_label": "01_student_handbook.pdf (Page 3)"
+  },
+  "4": {
+    "chunk_id": "83eef6c7ae7ad0382c26268e",
+    "source": "01_student_handbook.pdf",
+    "page": 3,
+    "chunk": 3,
+    "source_label": "01_student_handbook.pdf (Page 3)"
+  },
+  "5": {
+    "chunk_id": "ae6ca050d637a5db928ff171",
+    "source": "01_student_handbook.pdf",
+    "page": 3,
+    "chunk": 4,
+    "source_label": "01_student_handbook.pdf (Page 3)"
+  },
+  "6": {
+    "chunk_id": "7a06bd010d85aa7dcf7715d1",
+    "source": "01_student_handbook.pdf",
+    "page": 3,
+    "chunk": 5,
+    "source_label": "01_student_handbook.pdf (Page 3)"
+  },
+  "7": {
+    "chunk_id": "5183e676146a0e054bbb736e",
+    "source": "01_student_handbook.pdf",
+    "page": 4,
+    "chunk": 1,
+    "source_label": "01_student_handbook.pdf (Page 4)"
+  },
+  "8": {
+    "chunk_id": "b0b15a5d756ab2af25454e0f",
+    "source": "01_student_handbook.pdf",
+    "page": 4,
+    "chunk": 2,
+    "source_label": "01_student_handbook.pdf (Page 4)"
+  },
+  "9": {
+    "chunk_id": "07c7a27e8d1234447571299a",
+    "source": "01_student_handbook.pdf",
+    "page": 4,
+    "chunk": 3,
+    "source_label": "01_student_handbook.pdf (Page 4)"
+  },
+  "10": {
+    "chunk_id": "0de3092b022e920888431a42",
+    "source": "01_student_handbook.pdf",
+    "page": 4,
+    "chunk": 4,
+    "source_label": "01_student_handbook.pdf (Page 4)"
+  },
+  "11": {
+    "chunk_id": "c9d8d1f79a697aba37e29bed",
+    "source": "01_student_handbook.pdf",
+    "page": 4,
+    "chunk": 5,
+    "source_label": "01_student_handbook.pdf (Page 4)"
+  },
+  "12": {
+    "chunk_id": "63db2460b53d8c494446bc23",
+    "source": "01_student_handbook.pdf",
+    "page": 5,
+    "chunk": 1,
+    "source_label": "01_student_handbook.pdf (Page 5)"
+  },
+  "13": {
+    "chunk_id": "dc01f41d47c7ad083b070b02",
+    "source": "01_student_handbook.pdf",
+    "page": 5,
+    "chunk": 2,
+    "source_label": "01_student_handbook.pdf (Page 5)"
+  },
+  "14": {
+    "chunk_id": "bcdecc955527cb70c12590c3",
+    "source": "01_student_handbook.pdf",
+    "page": 5,
+    "chunk": 3,
+    "source_label": "01_student_handbook.pdf (Page 5)"
+  },
+  "15": {
+    "chunk_id": "d1f28129fddd8f0d83d5d646",
+    "source": "01_student_handbook.pdf",
+    "page": 5,
+    "chunk": 4,
+    "source_label": "01_student_handbook.pdf (Page 5)"
+  },
+  "16": {
+    "chunk_id": "3c8ad1028d449858907c07a7",
+    "source": "02_scholarship_policy.pdf",
+    "page": 1,
+    "chunk": 1,
+    "source_label": "02_scholarship_policy.pdf (Page 1)"
+  },
+  "17": {
+    "chunk_id": "7361086719f5151dfc7fea04",
+    "source": "02_scholarship_policy.pdf",
+    "page": 2,
+    "chunk": 1,
+    "source_label": "02_scholarship_policy.pdf (Page 2)"
+  },
+  "18": {
+    "chunk_id": "fac5238f73406b55318c69db",
+    "source": "02_scholarship_policy.pdf",
+    "page": 3,
+    "chunk": 1,
+    "source_label": "02_scholarship_policy.pdf (Page 3)"
+  },
+  "19": {
+    "chunk_id": "5616f20a6114105e481116ea",
+    "source": "02_scholarship_policy.pdf",
+    "page": 3,
+    "chunk": 2,
+    "source_label": "02_scholarship_policy.pdf (Page 3)"
+  },
+  "20": {
+    "chunk_id": "070b1ee7fe34bad1f7d8289a",
+    "source": "02_scholarship_policy.pdf",
+    "page": 3,
+    "chunk": 3,
+    "source_label": "02_scholarship_policy.pdf (Page 3)"
+  },
+  "21": {
+    "chunk_id": "7b70119eb32e71908fd6efc7",
+    "source": "02_scholarship_policy.pdf",
+    "page": 3,
+    "chunk": 4,
+    "source_label": "02_scholarship_policy.pdf (Page 3)"
+  },
+  "22": {
+    "chunk_id": "ba6d129bd85f95159dd91791",
+    "source": "02_scholarship_policy.pdf",
+    "page": 3,
+    "chunk": 5,
+    "source_label": "02_scholarship_policy.pdf (Page 3)"
+  },
+  "23": {
+    "chunk_id": "ae378fe9b0a09925da815a82",
+    "source": "02_scholarship_policy.pdf",
+    "page": 4,
+    "chunk": 1,
+    "source_label": "02_scholarship_policy.pdf (Page 4)"
+  },
+  "24": {
+    "chunk_id": "9d79929419b5c7bb393e2738",
+    "source": "02_scholarship_policy.pdf",
+    "page": 4,
+    "chunk": 2,
+    "source_label": "02_scholarship_policy.pdf (Page 4)"
+  },
+  "25": {
+    "chunk_id": "a1200c634daee173fe7f9e39",
+    "source": "02_scholarship_policy.pdf",
+    "page": 4,
+    "chunk": 3,
+    "source_label": "02_scholarship_policy.pdf (Page 4)"
+  },
+  "26": {
+    "chunk_id": "cf7e6eb3e6d4c26b31dca8e1",
+    "source": "03_fee_policy.pdf",
+    "page": 1,
+    "chunk": 1,
+    "source_label": "03_fee_policy.pdf (Page 1)"
+  },
+  "27": {
+    "chunk_id": "fdc2eab94dd0ffe5b0b697f0",
+    "source": "03_fee_policy.pdf",
+    "page": 2,
+    "chunk": 1,
+    "source_label": "03_fee_policy.pdf (Page 2)"
+  },
+  "28": {
+    "chunk_id": "eb1a68ad26a0edec0d415fe4",
+    "source": "03_fee_policy.pdf",
+    "page": 3,
+    "chunk": 1,
+    "source_label": "03_fee_policy.pdf (Page 3)"
+  },
+  "29": {
+    "chunk_id": "eaec22b9c9835e285ca9f2be",
+    "source": "03_fee_policy.pdf",
+    "page": 3,
+    "chunk": 2,
+    "source_label": "03_fee_policy.pdf (Page 3)"
+  },
+  "30": {
+    "chunk_id": "6db6acc1f5858e8996b32828",
+    "source": "03_fee_policy.pdf",
+    "page": 3,
+    "chunk": 3,
+    "source_label": "03_fee_policy.pdf (Page 3)"
+  },
+  "31": {
+    "chunk_id": "92839db41b8f58ebe38fd093",
+    "source": "03_fee_policy.pdf",
+    "page": 3,
+    "chunk": 4,
+    "source_label": "03_fee_policy.pdf (Page 3)"
+  },
+  "32": {
+    "chunk_id": "3372f6c04bfc8fc886e497d3",
+    "source": "03_fee_policy.pdf",
+    "page": 4,
+    "chunk": 1,
+    "source_label": "03_fee_policy.pdf (Page 4)"
+  },
+  "33": {
+    "chunk_id": "bc06b10d7b50e4a0a64fe7d5",
+    "source": "03_fee_policy.pdf",
+    "page": 4,
+    "chunk": 2,
+    "source_label": "03_fee_policy.pdf (Page 4)"
+  },
+  "34": {
+    "chunk_id": "a4b85fd1d3c55cf946c801be",
+    "source": "03_fee_policy.pdf",
+    "page": 4,
+    "chunk": 3,
+    "source_label": "03_fee_policy.pdf (Page 4)"
+  },
+  "35": {
+    "chunk_id": "5cc2aee1f5a9333d3a13944e",
+    "source": "03_fee_policy.pdf",
+    "page": 4,
+    "chunk": 4,
+    "source_label": "03_fee_policy.pdf (Page 4)"
+  },
+  "36": {
+    "chunk_id": "81b894c7376007e16d5174c0",
+    "source": "04_examination_rules.pdf",
+    "page": 1,
+    "chunk": 1,
+    "source_label": "04_examination_rules.pdf (Page 1)"
+  },
+  "37": {
+    "chunk_id": "a4c049543c921b9cbc1257c2",
+    "source": "04_examination_rules.pdf",
+    "page": 2,
+    "chunk": 1,
+    "source_label": "04_examination_rules.pdf (Page 2)"
+  },
+  "38": {
+    "chunk_id": "ba5b60e1d583879c599d64ac",
+    "source": "04_examination_rules.pdf",
+    "page": 3,
+    "chunk": 1,
+    "source_label": "04_examination_rules.pdf (Page 3)"
+  },
+  "39": {
+    "chunk_id": "05ca2ed428e51bad4da1c748",
+    "source": "04_examination_rules.pdf",
+    "page": 3,
+    "chunk": 2,
+    "source_label": "04_examination_rules.pdf (Page 3)"
+  },
+  "40": {
+    "chunk_id": "fab7d9e593847902e9fb1fea",
+    "source": "04_examination_rules.pdf",
+    "page": 3,
+    "chunk": 3,
+    "source_label": "04_examination_rules.pdf (Page 3)"
+  },
+  "41": {
+    "chunk_id": "2ff990d623370be361222af0",
+    "source": "04_examination_rules.pdf",
+    "page": 3,
+    "chunk": 4,
+    "source_label": "04_examination_rules.pdf (Page 3)"
+  },
+  "42": {
+    "chunk_id": "e2c4c6f4f84c36f2a61d2ab5",
+    "source": "04_examination_rules.pdf",
+    "page": 3,
+    "chunk": 5,
+    "source_label": "04_examination_rules.pdf (Page 3)"
+  },
+  "43": {
+    "chunk_id": "c5148ea20e9f24d52b6fdd08",
+    "source": "04_examination_rules.pdf",
+    "page": 4,
+    "chunk": 1,
+    "source_label": "04_examination_rules.pdf (Page 4)"
+  },
+  "44": {
+    "chunk_id": "4f99ab7fb4fe0bba663408ab",
+    "source": "04_examination_rules.pdf",
+    "page": 4,
+    "chunk": 2,
+    "source_label": "04_examination_rules.pdf (Page 4)"
+  },
+  "45": {
+    "chunk_id": "8404db1b6281eac5b6047bbb",
+    "source": "04_examination_rules.pdf",
+    "page": 4,
+    "chunk": 3,
+    "source_label": "04_examination_rules.pdf (Page 4)"
+  },
+  "46": {
+    "chunk_id": "a597a05a907a00526999616e",
+    "source": "05_admission_guidelines.pdf",
+    "page": 1,
+    "chunk": 1,
+    "source_label": "05_admission_guidelines.pdf (Page 1)"
+  },
+  "47": {
+    "chunk_id": "bde5e5a75dc87d458de2b67a",
+    "source": "05_admission_guidelines.pdf",
+    "page": 2,
+    "chunk": 1,
+    "source_label": "05_admission_guidelines.pdf (Page 2)"
+  },
+  "48": {
+    "chunk_id": "cdc0c9a792db122bbd29aeed",
+    "source": "05_admission_guidelines.pdf",
+    "page": 3,
+    "chunk": 1,
+    "source_label": "05_admission_guidelines.pdf (Page 3)"
+  },
+  "49": {
+    "chunk_id": "49023048ed798c1c8f36baa0",
+    "source": "05_admission_guidelines.pdf",
+    "page": 3,
+    "chunk": 2,
+    "source_label": "05_admission_guidelines.pdf (Page 3)"
+  },
+  "50": {
+    "chunk_id": "79e63d98fa9fd98e8df6709f",
+    "source": "05_admission_guidelines.pdf",
+    "page": 3,
+    "chunk": 3,
+    "source_label": "05_admission_guidelines.pdf (Page 3)"
+  },
+  "51": {
+    "chunk_id": "ff84aa942b4eed3cb1aed845",
+    "source": "05_admission_guidelines.pdf",
+    "page": 3,
+    "chunk": 4,
+    "source_label": "05_admission_guidelines.pdf (Page 3)"
+  },
+  "52": {
+    "chunk_id": "42a09b0c668d8767dec1a7f5",
+    "source": "05_admission_guidelines.pdf",
+    "page": 4,
+    "chunk": 1,
+    "source_label": "05_admission_guidelines.pdf (Page 4)"
+  },
+  "53": {
+    "chunk_id": "198c19551466c17267260097",
+    "source": "05_admission_guidelines.pdf",
+    "page": 4,
+    "chunk": 2,
+    "source_label": "05_admission_guidelines.pdf (Page 4)"
+  },
+  "54": {
+    "chunk_id": "bf0258fa64ea89d5b5e21894",
+    "source": "05_admission_guidelines.pdf",
+    "page": 4,
+    "chunk": 3,
+    "source_label": "05_admission_guidelines.pdf (Page 4)"
+  },
+  "55": {
+    "chunk_id": "d288c56b999388fb9ca500ea",
+    "source": "05_admission_guidelines.pdf",
+    "page": 4,
+    "chunk": 4,
+    "source_label": "05_admission_guidelines.pdf (Page 4)"
+  },
+  "56": {
+    "chunk_id": "4ef13d463dd8098f91e12633",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 1,
+    "chunk": 1,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 1)"
+  },
+  "57": {
+    "chunk_id": "df484aede9971698180ed518",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 2,
+    "chunk": 1,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 2)"
+  },
+  "58": {
+    "chunk_id": "59a8e0a9ad9271f404a42799",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 3,
+    "chunk": 1,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 3)"
+  },
+  "59": {
+    "chunk_id": "9035ed353b612e282ba2d6bd",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 3,
+    "chunk": 2,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 3)"
+  },
+  "60": {
+    "chunk_id": "8d9cb3bb80a209577a7d0793",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 3,
+    "chunk": 3,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 3)"
+  },
+  "61": {
+    "chunk_id": "85c0ffd35f2eef5a709b580a",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 3,
+    "chunk": 4,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 3)"
+  },
+  "62": {
+    "chunk_id": "df3d9791d2630e0cf6b9f723",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 4,
+    "chunk": 1,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 4)"
+  },
+  "63": {
+    "chunk_id": "6e48191fa620e398c2d605ab",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 4,
+    "chunk": 2,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 4)"
+  },
+  "64": {
+    "chunk_id": "400f0e37851b1d7b6962df59",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 4,
+    "chunk": 3,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 4)"
+  },
+  "65": {
+    "chunk_id": "dce5cc25340f9fe6ab8607a7",
+    "source": "06_academic_calendar_2026_2027.pdf",
+    "page": 4,
+    "chunk": 4,
+    "source_label": "06_academic_calendar_2026_2027.pdf (Page 4)"
+  }
+}
