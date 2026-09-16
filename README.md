@@ -1,19 +1,58 @@
-# University Knowledge Assistant RAG Database
+# 🎓 University Student & Academic Knowledge Assistant
 
-Precomputed vector database for the University Student & Academic
-Knowledge Assistant.
+An enterprise-style Retrieval-Augmented Generation (RAG) application for answering university-related questions using a precomputed FAISS vector database and Groq's `openai/gpt-oss-120b` language model.
 
-## Architecture
+## 🚀 Features
 
-Google Drive PDFs
-        ↓
-PyMuPDF
-        ↓
-Page-aware Chunking
-        ↓
-SentenceTransformer
-        ↓
-FAISS
+- Retrieval-Augmented Generation (RAG)
+- FAISS vector similarity search
+- Sentence Transformers embeddings
+- Groq LLM
+- `openai/gpt-oss-120b`
+- Streamlit user interface
+- Source traceability
+- Page-level source references
+- Chunk-level source references
+- Persistent precomputed embeddings
+- No original PDFs required at runtime
+- Chat-style interface
+- Configurable number of retrieved chunks
+
+---
+
+# 🏗️ Architecture
+
+```text
+User Question
+      │
+      ▼
+Sentence Transformer
+all-MiniLM-L6-v2
+      │
+      ▼
+Query Embedding
+      │
+      ▼
+FAISS Vector Search
+      │
+      ├──────────────► chunks.json
+      │                 Retrieved text
+      │
+      └──────────────► metadata.json
+                        Source/page/chunk
+                              │
+                              ▼
+                       RAG Context
+                              │
+                              ▼
+                       Groq LLM
+                 openai/gpt-oss-120b
+                              │
+                              ▼
+                       Final Answer
+                              │
+                              ▼
+                       Source Display
         ↓
 Metadata JSON
         ↓
